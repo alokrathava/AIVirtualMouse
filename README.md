@@ -12,7 +12,7 @@ Dependencies required <br>
    pip install numpy
    ```
    
- # 3. autopy
+ # 3. autopy (Python 2.7, or Python 3.5 and up.)
    ```
    pip install autopy
    ```
